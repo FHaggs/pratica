@@ -1,0 +1,52 @@
+Executing with 1 threads
+Communities detected in 2.35494 [s]
+solution properties:
+-------------------  -------------
+# communities         28616
+min community size        1
+max community size   190981
+avg. community size      40.4608
+imbalance              4658.07
+edge cut             517355
+edge cut (portion)        0.173166
+modularity                0.723304
+-------------------  -------------
+Executing with 2 threads
+Communities detected in 1.85606 [s]
+solution properties:
+-------------------  -------------
+# communities         29012
+min community size        1
+max community size   205515
+avg. community size      39.9086
+imbalance              5137.88
+edge cut             503515
+edge cut (portion)        0.168534
+modularity                0.721686
+-------------------  -------------
+Executing with 4 threads
+Communities detected in 1.64537 [s]
+solution properties:
+-------------------  -------------
+# communities         29042
+min community size        1
+max community size   205879
+avg. community size      39.8673
+imbalance              5146.98
+edge cut             501690
+edge cut (portion)        0.167923
+modularity                0.722355
+-------------------  -------------
+Executing with 8 threads
+Communities detected in 1.85827 [s]
+solution properties:
+-------------------  -------------
+# communities         28989
+min community size        1
+max community size   203488
+avg. community size      39.9402
+imbalance              5087.2
+edge cut             505064
+edge cut (portion)        0.169052
+modularity                0.721581
+-------------------  -------------
