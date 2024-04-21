@@ -1,52 +1,65 @@
 Executing with 1 threads
-Communities detected in 2.35494 [s]
+Communities detected in 2.55046 [s]
 solution properties:
 -------------------  -------------
-# communities         28616
+# communities         28482
 min community size        1
-max community size   190981
-avg. community size      40.4608
-imbalance              4658.07
-edge cut             517355
-edge cut (portion)        0.173166
-modularity                0.723304
+max community size   188243
+avg. community size      40.6512
+imbalance              4591.29
+edge cut             514432
+edge cut (portion)        0.172188
+modularity                0.723414
 -------------------  -------------
 Executing with 2 threads
-Communities detected in 1.85606 [s]
+Communities detected in 2.06021 [s]
 solution properties:
 -------------------  -------------
-# communities         29012
+# communities         28791
 min community size        1
-max community size   205515
-avg. community size      39.9086
-imbalance              5137.88
-edge cut             503515
-edge cut (portion)        0.168534
-modularity                0.721686
+max community size   194841
+avg. community size      40.2149
+imbalance              4752.22
+edge cut             514476
+edge cut (portion)        0.172202
+modularity                0.722606
 -------------------  -------------
 Executing with 4 threads
-Communities detected in 1.64537 [s]
+Communities detected in 1.50445 [s]
 solution properties:
 -------------------  -------------
-# communities         29042
+# communities         28967
 min community size        1
-max community size   205879
-avg. community size      39.8673
-imbalance              5146.98
-edge cut             501690
-edge cut (portion)        0.167923
-modularity                0.722355
+max community size   204490
+avg. community size      39.9706
+imbalance              5112.25
+edge cut             505677
+edge cut (portion)        0.169257
+modularity                0.722776
+-------------------  -------------
+Executing with 6 threads
+Communities detected in 1.90719 [s]
+solution properties:
+-------------------  -------------
+# communities         28902
+min community size        1
+max community size   202709
+avg. community size      40.0604
+imbalance              4944.12
+edge cut             506183
+edge cut (portion)        0.169427
+modularity                0.723019
 -------------------  -------------
 Executing with 8 threads
-Communities detected in 1.85827 [s]
+Communities detected in 2.06579 [s]
 solution properties:
 -------------------  -------------
-# communities         28989
+# communities         28743
 min community size        1
-max community size   203488
-avg. community size      39.9402
-imbalance              5087.2
-edge cut             505064
-edge cut (portion)        0.169052
-modularity                0.721581
+max community size   192830
+avg. community size      40.2821
+imbalance              4703.17
+edge cut             515947
+edge cut (portion)        0.172695
+modularity                0.723142
 -------------------  -------------

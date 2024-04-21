@@ -7,12 +7,13 @@ graph_path = "com-youtube.ungraph.txt"
 G = nk.readGraph(graph_path, nk.Format.EdgeListTabOne)
 
 # List of CPU core counts to test (from 1 core to max cores, incrementing by 2)
-# The machine from pedro fam has 8 cores 
+# The machine from pedro fam has 8 cores 4 physical 
 cpu_core_counts = [1]
-current_number = 1
+current_number = 0
 max_cores = os.cpu_count()
+
 while current_number < max_cores:
-    current_number *= 2
+    current_number += 2
     cpu_core_counts.append(current_number)
 
 
